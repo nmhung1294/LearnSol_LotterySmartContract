@@ -1,0 +1,2 @@
+# LotterySmartContract
+Practice, Solidity
